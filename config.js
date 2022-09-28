@@ -63,7 +63,7 @@ global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada K
 /*============== NOMOR ==============*/
 global.nomorbot = '6281376349712' //Nomor Bot
 global.nomorown = '6285850539404' //Nomor Owner
-global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
+global.namebot = 'RullBOt'  //Nama Bot
 global.nameown = 'Oscar Offc'  // Nama Owner
 
 
